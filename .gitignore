@@ -34,3 +34,7 @@ mrtmp.*
 pkg/
 api.key
 *-handin.tar.gz
+
+**/*.o
+
+main/mr-tmp
